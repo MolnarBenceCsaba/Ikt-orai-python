@@ -19,7 +19,7 @@ mezo1.pack(side=RIGHT)
 mezo2 = Entry(foablak)
 
 
-mezo2.pack(side=RIGHT)
+mezo2.pack
 
 mezo3 = Entry(foablak)
 
